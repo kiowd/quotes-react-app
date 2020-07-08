@@ -9,7 +9,7 @@ blockquote {
 
 blockquote p {
   padding: 15px;
-  background: #eee;
+  background: rgb(206, 203, 203);
   border-radius: 5px;
 }
 
